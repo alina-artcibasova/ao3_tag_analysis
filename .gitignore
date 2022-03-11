@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Login testing
+login.json
+login_notebook.ipynb
